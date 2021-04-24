@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 -->
 ### More about me...
 
+- ✅ ⁠ ⁢⁣⁡⁠ C++ / C#
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Rust / Golang /Python
+
+
 ```go
 package main
 
