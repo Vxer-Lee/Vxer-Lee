@@ -29,11 +29,9 @@ package main
 
 type Me struct{
   Job string
-  Pronouns string
-  Code string
-  Job string
+  Hobby string
+  BestAndFavoriteLanguage string
   BestAndFavoriteSkill string
-  SweetHeart string
 }
 
 func main() {
