@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 -->
 ### More about me...
 
-- ✅ ⁠ ⁢⁣⁡⁠ C++ / C#
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Rust / Golang /Python
-
+- ✅ ⁠ ⁢⁣⁡⁠ C++ /C# /Rust /Golang /Python /E_language
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Re /Pwn /Web Hacking
 
 ```go
 package main
 
 type Me struct{
+  Job string
   Pronouns string
   Code string
   Job string
@@ -38,11 +38,10 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Security Researcher and RedTeam",
-    Prononus: "He/Him",
-    SweetHeart: "01",
-    Code: "PHP and Go and Python and Everythings",
-    BestAndFavoriteSkill: "Web Hacking :D"
+    Job: "Reverse development",
+    Hobby: "Web Hacking, Binary Security",
+    BestAndFavoriteLanguage: "C++ and E_language",
+    BestAndFavoriteSkill: "Reverse :D"
   }
   _ = me
 }
