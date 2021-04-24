@@ -4,7 +4,7 @@
 - 💬 Ask me about: re pwn web
 - 🔭 I’m currently working on re  
 
-[![Lee's github stats](https://github-readme-stats.vercel.app/api?username=Vxer-Lee&count_private=true&show_icons=true)]
+![Lee's github stats](https://github-readme-stats.vercel.app/api?username=Vxer-Lee&count_private=true&show_icons=true)
 
 
 <!--
