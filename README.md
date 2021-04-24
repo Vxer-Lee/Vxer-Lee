@@ -2,8 +2,11 @@
 - ✏️ Read my blog on https://vxer-lee.github.io
 - 🌱 I’m currently learning 《Android Hacker's Handbook》
 - 💬 Ask me about: re pwn web
-- 🔭 I’m currently working on ...
-![Lee's github stats](https://github-readme-stats.vercel.app/api?username=Vxer-Lee&count_private=true&show_icons=true)
+- 🔭 I’m currently working on re  
+
+[![Lee's github stats](https://github-readme-stats.vercel.app/api?username=Vxer-Lee&count_private=true&show_icons=true)]
+
+
 <!--
 **Vxer-Lee/Vxer-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
